@@ -47,7 +47,7 @@ O projeto utiliza um sistema simples de autenticação via middleware. Para util
 
 Para executar este projeto, é necessário ter instalado:
 
-- .NET 6.0 ou superior
+- .NET 7.0 ou superior
 
 ## Executando o projeto
 
